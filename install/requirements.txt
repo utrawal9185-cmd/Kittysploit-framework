@@ -58,7 +58,7 @@ toml>=0.10.2
 bcrypt==4.0.1
 pyserial>=3.5
 pychromecast>=13.0.0
-python-can>=4.0.0
+python-can>=4.6.1
 beautifulsoup4>=4.12.0
 uvicorn>=0.22.0
 mitmproxy>=9.0.0
